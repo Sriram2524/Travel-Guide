@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.heading {
+  font-family: roboto;
+  font-size: 30px;
+  color: #334155;
+  text-align: center;
+  font-weight: bold;
+}
+.unordered-list {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
